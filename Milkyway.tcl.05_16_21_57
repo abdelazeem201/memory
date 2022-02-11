@@ -1,0 +1,129 @@
+;# Tcl
+configureWindow 0 25x24+0+0
+cmCreateLib
+setFormField create_library library_name memory
+setFormField create_library technology_file_name saed90nm_icc_1p9m.tf
+setFormField create_library set_case_sensitive 1
+formOK create_library
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/CAM_4R4W.gds
+formButton stream_in_data_file browse...
+setFormField stream_in_data_file library_name memory
+setFormField stream_in_data_file cell_type_definition_file /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/cell_type.txt
+setFormField stream_in_data_file cell_type_definition_file /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/cell_type.txt
+formOK stream_in_data_file
+geOpenCell
+geOpenLib
+formButton open_library browse...
+setFormField open_library library_name memory
+formOK open_library
+geOpenCell
+formButton open_cell browse...
+setFormField open_cell cell_name CAM_4R4W
+formOK open_cell
+configureWindow 1 826x653+250+100
+geCloseWindow
+formOK close_window
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_1R1W.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file overwrite_existing_cells 1
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_2R1W_HY.gds
+setFormField stream_in_data_file confirm_overwrite_of_existing_cells 1
+formOK stream_in_data_file
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+formYes dialog_box
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_4R4W.gds
+setFormField stream_in_data_file confirm_overwrite_of_existing_cells 0
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_4R4W_AMT.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_4R4W_FREELIST.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_4R4W_PAYLOAD.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_8R4W_PIPE.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_8R4W_PIPE_NEXT.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_8R4W_RMT.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_8R8W.gds
+formOK stream_in_data_file
+geNewMakeMacro
+setFormField make_macro cell_name *
+formButton make_macro extractBlkg
+formButton make_macro extractPin
+setFormField make_macro identify_macro_pin_by_pin_text 1
+formButton make_macro extractVia
+formButton make_macro extractBlkg
+formButton make_macro extractPin
+formButton make_macro extractPin
+formOK make_macro
+formOK make_macro
+formCancel make_macro
+auStreamIn
+formCancel stream_in_data_file
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM4x16.gds
+formOK stream_in_data_file
+auExtractBlockagePinVia
+setFormField extract_blockage library_name memory
+setFormField extract_blockage cell_name SRAM4x16
+formOK extract_blockage
+formOK extract_blockage
+formOK extract_blockage
+formCancel extract_blockage
+read_lef -lib_name memory -tech_lef_files SRAM16x64.lef -cell_lef_files SRAM16x64.lef
+geNewMakeMacro
+setFormField make_macro cell_name *
+formButton make_macro extractPin
+setFormField make_macro identify_macro_pin_by_pin_text 1
+formOK make_macro
+formCancel make_macro
+geOpenCell
+formCancel open_cell
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_8R4W_PIPE
+formButton make_macro extractPin
+formOK make_macro
+geNewMakeMacro
+setFormField make_macro cell_name *
+formButton make_macro extractPin
+formOK make_macro
+formOK make_macro
+setFormField make_macro cell_name ""
+formCancel make_macro
+exit

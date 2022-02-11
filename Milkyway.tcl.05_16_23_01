@@ -1,0 +1,115 @@
+;# Tcl
+configureWindow 0 25x24+0+0
+cmCreateLib
+setFormField create_library technology_file_name saed90nm_icc_1p9m.tf
+setFormField create_library library_name memory
+setFormField create_library set_case_sensitive 1
+formOK create_library
+geOpenLib
+formButton open_library browse...
+setFormField open_library library_name memory
+formOK open_library
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/CAM_4R4W.gds
+formButton stream_in_data_file browse...
+setFormField stream_in_data_file library_name memory
+setFormField stream_in_data_file cell_type_definition_file /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/cell_type.txt
+setFormField stream_in_data_file overwrite_existing_cells 1
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_1R1W.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_2R1W_HY.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_4R4W.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_4R4W_AMT.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_4R4W_FREELIST.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_4R4W_PAYLOAD.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_8R4W_PIPE.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_8R4W_PIPE_NEXT.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_8R4W_RMT.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/SRAM_8R8W.gds
+formOK stream_in_data_file
+auStreamIn
+formCancel stream_in_data_file
+geNewMakeMacro
+setFormField make_macro cell_name CAM_4R4W
+formButton make_macro extractVia
+formButton make_macro extractBlkg
+formButton make_macro extractPin
+formOK make_macro
+formOK make_macro
+formButton make_macro extractPin
+setFormField make_macro identify_macro_pin_by_pin_text 1
+formOK make_macro
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_
+setFormField make_macro cell_name SRAM_1R1W
+formButton make_macro extractPin
+formOK make_macro
+iconifyWindow 0
+deiconifyWindow 0
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_2R1W_HY
+formButton make_macro extractPin
+formOK make_macro
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_4R4W
+formButton make_macro extractPin
+formOK make_macro
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_4R4W_AMT
+formOK make_macro
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_4R4W_FREELIST
+formOK make_macro
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_4R4W_PAYLOAD
+formOK make_macro
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_8R4W_PIPE
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+formOK make_macro
+deiconifyWindow 0
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_8R4W_PIPE_NEXT
+formOK make_macro
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_8R4W_RMT
+formOK make_macro
+geNewMakeMacro
+setFormField make_macro cell_name SRAM_8R8W
+formOK make_macro
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+exit

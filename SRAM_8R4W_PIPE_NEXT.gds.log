@@ -1,0 +1,105 @@
+
+                          Avant! GDS II File Translation Report
+                          =====================================
+
+                            Cell Type Map File: /home/IC/Desktop/Abdelazeem/synopsys/syn_tut/milkyway/gds/cell_type.txt
+                            Layer Map File    : (unspecified)
+
+                                                                    Structure   Array
+    Cell Name             Cell Type         Polygon   Path   Text   Reference   Reference
+    -------------------   ---------------   -------   ----   ----   ---------   ---------
+    M1_POLY_0             Standard cell           3      0      0           0           0
+    M2_M1_1               Standard cell           3      0      0           0           0
+    PTAP_2                Standard cell           4      0      0           0           0
+    NTAP_3                Standard cell           4      0      0           0           0
+    M3_M2_4               Standard cell           3      0      0           0           0
+    8r4w_new              Standard cell          60     94     38         101           0
+    M3_M2_viaB            Standard cell           3      0      0           0           0
+    M2_M1_viaB            Standard cell           3      0      0           0           0
+    M3_M2_via             Standard cell           3      0      0           0           0
+    M1_POLY               Standard cell           0      0      0           1           0
+    NTAP                  Standard cell           0      0      0           1           0
+    buff                  Standard cell          19     21      4          23           0
+    M2_M1_via             Standard cell           3      0      0           0           0
+    M1_N_5                Standard cell           3      0      0           0           0
+    M1_N                  Standard cell           0      0      0           1           0
+    PTAP                  Standard cell           0      0      0           1           0
+    buff2                 Standard cell           7     11      4          12           0
+    col_inv               Standard cell           2      6      2           6           0
+    r_column              Standard cell           3      7      5           4           0
+    sense_amp             Standard cell           5     14      3           6           0
+    wdata_dc              Standard cell          12     14      5          12           0
+    inverter              Standard cell           2      6      2           3           0
+    SRAM_8R4W_PIPE_NEXT   Macro cell           4485   4743    211       11505           0
+    -------------------   ---------------   -------   ----   ----   ---------   ---------
+                                 23 cells      4627   4916    274       11676           0
+
+
+
+     Elements in Layer Summary
+
+  GDSII Layer   Polygon   Path   Text
+  -----------   -------   ----   ----
+            1       406     12      0
+            4         1      0      0
+            5       386      0      0
+           10      2889    156      0
+           11       208   1474    129
+           12       264   1017     54
+           13         3   1797     91
+           20         4      0      0
+           21         3      0      0
+           22         3      0      0
+           75       460    460      0
+  -----------   -------   ----   ----
+                   4627   4916    274
+
+
+
+      Cell Boundary Generation Summary
+
+    Cell Name                Boundary
+    ----------------------   ------------
+    nmos_vtl_4               Not present
+    pmos_vtl_5               Not present
+    nmos_vtl_6               Not present
+    nmos_vtl_7               Not present
+    M1_POLY_0                Not present
+    M2_M1_1                  Not present
+    PTAP_2                   Not present
+    NTAP_3                   Not present
+    M3_M2_4                  Not present
+    8r4w_new                 Not present
+    M3_M2_viaB               Not present
+    M2_M1_viaB               Not present
+    M3_M2_via                Not present
+    pmos_vtl_0               Not present
+    M1_POLY                  Not present
+    NTAP                     Not present
+    nmos_vtl_8               Not present
+    pmos_vtl_9               Not present
+    nmos_vtl_10              Not present
+    pmos_vtl_11              Not present
+    buff                     Not present
+    M2_M1_via                Not present
+    nmos_vtl_1               Not present
+    nmos_vtl_2               Not present
+    M1_N_5                   Not present
+    M1_N                     Not present
+    pmos_vtl_3               Not present
+    PTAP                     Not present
+    nmos_vtl_12              Not present
+    buff2                    Not present
+    nmos_vtl_14              Not present
+    pmos_vtl_15              Not present
+    col_inv                  Not present
+    nmos_vtl_13              Not present
+    r_column                 Not present
+    sense_amp                Not present
+    nmos_vtl_16              Not present
+    nmos_vtl_17              Not present
+    pmos_vtl_18              Not present
+    wdata_dc                 Not present
+    inverter                 Not present
+    SRAM_8R4W_PIPE_NEXT      Not present
+    ----------------------   ------------

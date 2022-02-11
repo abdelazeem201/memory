@@ -1,0 +1,98 @@
+
+                        Avant! GDS II File Translation Report
+                        =====================================
+
+                          Cell Type Map File: /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/cell_type.txt
+                          Layer Map File    : (unspecified)
+
+                                                               Structure   Array
+    Cell Name        Cell Type         Polygon   Path   Text   Reference   Reference
+    --------------   ---------------   -------   ----   ----   ---------   ---------
+    M2_M1_via        Standard cell           3      0      0           0           0
+    M3_M2_via        Standard cell           3      0      0           0           0
+    M2_M1_viaB       Standard cell           3      0      0           0           0
+    M1_POLY_0        Standard cell           3      0      0           0           0
+    M2_M1_1          Standard cell           3      0      0           0           0
+    PTAP_2           Standard cell           4      0      0           0           0
+    NTAP_3           Standard cell           4      0      0           0           0
+    M3_M2_4          Standard cell           3      0      0           0           0
+    4r4w_new         Standard cell          11    101     26          88           0
+    M3_M2_viaB       Standard cell           3      0      0           0           0
+    buff             Standard cell          19     21      4          23           0
+    M1_POLY          Standard cell           0      0      0           1           0
+    M1_N_5           Standard cell           3      0      0           0           0
+    M1_N             Standard cell           0      0      0           1           0
+    PTAP             Standard cell           0      0      0           1           0
+    NTAP             Standard cell           0      0      0           1           0
+    wdata_nodc       Standard cell           9     18      6          11           0
+    inverter         Standard cell           2      6      2           3           0
+    inverter_4       Standard cell           4      3      4           5           0
+    nand2            Standard cell           1     10      5           5           0
+    CAM_4R4W         Macro cell            683   1938    151        2869           0
+    --------------   ---------------   -------   ----   ----   ---------   ---------
+                            21 cells       761   2097    198        3008           0
+
+
+
+     Elements in Layer Summary
+
+  GDSII Layer   Polygon   Path   Text
+  -----------   -------   ----   ----
+            1        85      4      0
+            4         1      0      0
+            5        66      0      0
+           10       452    107      0
+           11        44    559     54
+           12         6    716    110
+           13         3    627     34
+           20         4      0      0
+           21         3      0      0
+           22         3      0      0
+           75        94     84      0
+  -----------   -------   ----   ----
+                    761   2097    198
+
+
+
+    Cell Boundary Generation Summary
+
+    Cell Name           Boundary
+    -----------------   ------------
+    nmos_vtl_3          Not present
+    pmos_vtl_4          Not present
+    nmos_vtl_5          Not present
+    M2_M1_via           Not present
+    M3_M2_via           Not present
+    M2_M1_viaB          Not present
+    M1_POLY_0           Not present
+    M2_M1_1             Not present
+    PTAP_2              Not present
+    NTAP_3              Not present
+    M3_M2_4             Not present
+    4r4w_new            Not present
+    M3_M2_viaB          Not present
+    nmos_vtl_6          Not present
+    pmos_vtl_7          Not present
+    pmos_vtl_8          Not present
+    nmos_vtl_9          Not present
+    pmos_vtl_10         Not present
+    buff                Not present
+    nmos_vtl_0          Not present
+    M1_POLY             Not present
+    nmos_vtl_1          Not present
+    M1_N_5              Not present
+    M1_N                Not present
+    pmos_vtl_2          Not present
+    PTAP                Not present
+    NTAP                Not present
+    nmos_vtl_11         Not present
+    nmos_vtl_12         Not present
+    pmos_vtl_13         Not present
+    wdata_nodc          Not present
+    inverter            Not present
+    nmos_vtl_14         Not present
+    inverter_4          Not present
+    nmos_vtl_15         Not present
+    nand2               Not present
+    CAM_4R4W            Not present
+    -----------------   ------------

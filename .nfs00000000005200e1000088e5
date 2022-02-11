@@ -1,0 +1,87 @@
+;# Tcl
+configureWindow 0 25x24+0+0
+cmCreateLib
+setFormField create_library library_name fabscalar
+setFormField create_library technology_file_name FreePDK45.tf
+formOK create_library
+cmCreateLib
+formOK create_library
+formCancel create_library
+cmCreateLib
+formOK create_library
+cmCreateLib
+setFormField create_library technology_file_name saed90nm_icc_1p9m.tfFreePDK45.tf
+setFormField create_library technology_file_name saed90nm_icc_1p9m.tf
+formOK create_library
+cmCreateLib
+formOK create_library
+cmCreateLib
+formOK create_library
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/AND2X1.gds
+formButton stream_in_data_file browse...
+setFormField stream_in_data_file library_name FABSCALAR
+formOK stream_in_data_file
+read_lef
+read_lef
+read_lef -lib fabscalar -tech_lef_files CAM_4R4W_src0cam.lef -cell_lef_files CAM_4R4W_src0cam.lef 
+read_lef -lib fabscalar -tech_lef_files CAM_4R4W_src0cam.lef -cell_lef_files CAM_4R4W_src0cam.lef -overwrite_existing_tech
+iconifyWindow 0
+deiconifyWindow 0
+read_lef -lib fabscalar -tech_lef_files SRAM432.lef -cell_lef_files SRAM432.lef 
+read_lef -lib fabscalar -tech_lef_files CAM_4R4W_src0cam.lef -cell_lef_files CAM_4R4W_src0cam.lef -overwrite_existing_tech
+read_lef -lib fabscalar -tech_lef_files SRAM432.lef -cell_lef_files SRAM432.lef 
+geOpenCell
+geOpenCell
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/layout.gds
+formOK stream_in_data_file
+auStreamIn
+setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/layout.gds
+formOK stream_in_data_file
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0
+iconifyWindow 0
+deiconifyWindow 0

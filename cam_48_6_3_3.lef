@@ -1,0 +1,422 @@
+VERSION 5.6 ;
+BUSBITCHARS "[]" ;
+DIVIDERCHAR "/" ;
+
+PROPERTYDEFINITIONS
+  LAYER contactResistance REAL ;
+END PROPERTYDEFINITIONS
+
+UNITS
+  DATABASE MICRONS 1000 ;
+END UNITS
+MANUFACTURINGGRID 0.0025 ;
+LAYER poly
+  TYPE MASTERSLICE ;
+END poly
+
+LAYER contact
+  TYPE CUT ;
+  SPACING 0.075 ;
+  PROPERTY contactResistance 10.5 ;
+END contact
+
+LAYER metal1
+  TYPE ROUTING ;
+  DIRECTION HORIZONTAL ;
+  PITCH 0.19 0.19 ;
+  WIDTH 0.065 ;
+  SPACING 0.065 ;
+  RESISTANCE RPERSQ 0.38 ;
+END metal1
+
+LAYER via1
+  TYPE CUT ;
+  SPACING 0.075 ;
+  WIDTH 0.065 ;
+  PROPERTY contactResistance 5.69 ;
+END via1
+
+LAYER metal2
+  TYPE ROUTING ;
+  DIRECTION VERTICAL ;
+  PITCH 0.19 0.19 ;
+  WIDTH 0.07 ;
+  SPACING 0.075 ;
+  RESISTANCE RPERSQ 0.25 ;
+END metal2
+
+LAYER via2
+  TYPE CUT ;
+  SPACING 0.085 ;
+  WIDTH 0.07 ;
+  PROPERTY contactResistance 11.39 ;
+END via2
+
+LAYER metal3
+  TYPE ROUTING ;
+  DIRECTION HORIZONTAL ;
+  PITCH 0.19 0.19 ;
+  WIDTH 0.07 ;
+  SPACING 0.07 ;
+  RESISTANCE RPERSQ 0.25 ;
+END metal3
+
+LAYER via3
+  TYPE CUT ;
+  SPACING 0.085 ;
+  WIDTH 0.07 ;
+  PROPERTY contactResistance 16.73 ;
+END via3
+
+LAYER metal4
+  TYPE ROUTING ;
+  DIRECTION VERTICAL ;
+  PITCH 0.285 0.285 ;
+  WIDTH 0.14 ;
+  SPACING 0.14 ;
+  RESISTANCE RPERSQ 0.25 ;
+END metal4
+
+LAYER via4
+  TYPE CUT ;
+  SPACING 0.16 ;
+  WIDTH 0.14 ;
+  PROPERTY contactResistance 21.44 ;
+END via4
+
+LAYER metal5
+  TYPE ROUTING ;
+  DIRECTION HORIZONTAL ;
+  PITCH 0.285 0.285 ;
+  WIDTH 0.14 ;
+  SPACING 0.14 ;
+  RESISTANCE RPERSQ 0.25 ;
+END metal5
+
+LAYER via5
+  TYPE CUT ;
+  SPACING 0.16 ;
+  WIDTH 0.14 ;
+  PROPERTY contactResistance 24.08 ;
+END via5
+
+LAYER metal6
+  TYPE ROUTING ;
+  DIRECTION VERTICAL ;
+  PITCH 0.285 0.285 ;
+  WIDTH 0.14 ;
+  SPACING 0.14 ;
+  RESISTANCE RPERSQ 0.25 ;
+END metal6
+
+LAYER via6
+  TYPE CUT ;
+  SPACING 0.16 ;
+  WIDTH 0.14 ;
+  PROPERTY contactResistance 11.39 ;
+END via6
+
+LAYER metal7
+  TYPE ROUTING ;
+  DIRECTION HORIZONTAL ;
+  PITCH 0.855 0.855 ;
+  WIDTH 0.4 ;
+  SPACING 0.44 ;
+  RESISTANCE RPERSQ 0.25 ;
+END metal7
+
+LAYER via7
+  TYPE CUT ;
+  SPACING 0.44 ;
+  WIDTH 0.4 ;
+  PROPERTY contactResistance 5.69 ;
+END via7
+
+LAYER metal8
+  TYPE ROUTING ;
+  DIRECTION VERTICAL ;
+  PITCH 0.855 0.855 ;
+  WIDTH 0.4 ;
+  SPACING 0.44 ;
+  RESISTANCE RPERSQ 0.25 ;
+END metal8
+
+LAYER via8
+  TYPE CUT ;
+  SPACING 0.44 ;
+  WIDTH 0.4 ;
+  PROPERTY contactResistance 16.73 ;
+END via8
+
+LAYER metal9
+  TYPE ROUTING ;
+  DIRECTION HORIZONTAL ;
+  PITCH 1.71 1.71 ;
+  WIDTH 0.8 ;
+  SPACING 0.8 ;
+  RESISTANCE RPERSQ 0.21 ;
+END metal9
+
+LAYER via9
+  TYPE CUT ;
+  SPACING 0.88 ;
+  WIDTH 0.8 ;
+  PROPERTY contactResistance 21.44 ;
+END via9
+
+LAYER metal10
+  TYPE ROUTING ;
+  DIRECTION VERTICAL ;
+  PITCH 1.71 1.71 ;
+  WIDTH 0.4 ;
+  SPACING 0.8 ;
+  RESISTANCE RPERSQ 0.21 ;
+END metal10
+
+LAYER OVERLAP
+  TYPE OVERLAP ;
+END OVERLAP
+
+VIA M2_M1_via DEFAULT
+  LAYER metal1 ;
+    RECT -0.0675 -0.0325 0.0675 0.0325 ;
+  LAYER via1 ;
+    RECT -0.0325 -0.0325 0.0325 0.0325 ;
+  LAYER metal2 ;
+    RECT -0.035 -0.0675 0.035 0.0675 ;
+END M2_M1_via
+
+VIA M3_M2_via DEFAULT
+  LAYER metal2 ;
+    RECT -0.035 -0.07 0.035 0.07 ;
+  LAYER via2 ;
+    RECT -0.035 -0.035 0.035 0.035 ;
+  LAYER metal3 ;
+    RECT -0.07 -0.035 0.07 0.035 ;
+END M3_M2_via
+
+VIA M4_M3_via DEFAULT
+  LAYER metal3 ;
+    RECT -0.07 -0.035 0.07 0.035 ;
+  LAYER via3 ;
+    RECT -0.035 -0.035 0.035 0.035 ;
+  LAYER metal4 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+END M4_M3_via
+
+VIA M5_M4_via DEFAULT
+  LAYER metal4 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+  LAYER via4 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+  LAYER metal5 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+END M5_M4_via
+
+VIA M6_M5_via DEFAULT
+  LAYER metal5 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+  LAYER via5 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+  LAYER metal6 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+END M6_M5_via
+
+VIA M7_M6_via DEFAULT
+  LAYER metal6 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+  LAYER via6 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+  LAYER metal7 ;
+    RECT -0.2 -0.2 0.2 0.2 ;
+END M7_M6_via
+
+VIA M8_M7_via DEFAULT
+  LAYER metal7 ;
+    RECT -0.2 -0.2 0.2 0.2 ;
+  LAYER via7 ;
+    RECT -0.2 -0.2 0.2 0.2 ;
+  LAYER metal8 ;
+    RECT -0.2 -0.2 0.2 0.2 ;
+END M8_M7_via
+
+VIA M9_M8_via DEFAULT
+  LAYER metal8 ;
+    RECT -0.2 -0.2 0.2 0.2 ;
+  LAYER via8 ;
+    RECT -0.2 -0.2 0.2 0.2 ;
+  LAYER metal9 ;
+    RECT -0.4 -0.4 0.4 0.4 ;
+END M9_M8_via
+
+VIA M10_M9_via DEFAULT
+  LAYER metal9 ;
+    RECT -0.4 -0.4 0.4 0.4 ;
+  LAYER via9 ;
+    RECT -0.4 -0.4 0.4 0.4 ;
+  LAYER metal10 ;
+    RECT -0.4 -0.4 0.4 0.4 ;
+END M10_M9_via
+
+VIA M2_M1_viaB DEFAULT
+  LAYER metal1 ;
+    RECT -0.0675 -0.0325 0.0675 0.0325 ;
+  LAYER via1 ;
+    RECT -0.0325 -0.0325 0.0325 0.0325 ;
+  LAYER metal2 ;
+    RECT -0.0675 -0.035 0.0675 0.035 ;
+END M2_M1_viaB
+
+VIA M2_M1_viaC DEFAULT
+  LAYER metal1 ;
+    RECT -0.0325 -0.0675 0.0325 0.0675 ;
+  LAYER via1 ;
+    RECT -0.0325 -0.0325 0.0325 0.0325 ;
+  LAYER metal2 ;
+    RECT -0.035 -0.0675 0.035 0.0675 ;
+END M2_M1_viaC
+
+VIA M3_M2_viaB DEFAULT
+  LAYER metal2 ;
+    RECT -0.035 -0.07 0.035 0.07 ;
+  LAYER via2 ;
+    RECT -0.035 -0.035 0.035 0.035 ;
+  LAYER metal3 ;
+    RECT -0.035 -0.07 0.035 0.07 ;
+END M3_M2_viaB
+
+VIA M3_M2_viaC DEFAULT
+  LAYER metal2 ;
+    RECT -0.07 -0.035 0.07 0.035 ;
+  LAYER via2 ;
+    RECT -0.035 -0.035 0.035 0.035 ;
+  LAYER metal3 ;
+    RECT -0.07 -0.035 0.07 0.035 ;
+END M3_M2_viaC
+
+VIA M4_M3_viaB DEFAULT
+  LAYER metal3 ;
+    RECT -0.035 -0.07 0.035 0.07 ;
+  LAYER via3 ;
+    RECT -0.035 -0.035 0.035 0.035 ;
+  LAYER metal4 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+END M4_M3_viaB
+
+VIARULE M2_M1 GENERATE
+  LAYER metal1 ;
+    ENCLOSURE 0 0.035 ;
+  LAYER metal2 ;
+    ENCLOSURE 0 0.035 ;
+  LAYER via1 ;
+    RECT -0.0325 -0.0325 0.0325 0.0325 ;
+    SPACING 0.14 BY 0.14 ;
+END M2_M1
+
+VIARULE M3_M2 GENERATE
+  LAYER metal2 ;
+    ENCLOSURE 0 0.035 ;
+  LAYER metal3 ;
+    ENCLOSURE 0 0.035 ;
+  LAYER via2 ;
+    RECT -0.035 -0.035 0.035 0.035 ;
+    SPACING 0.155 BY 0.155 ;
+END M3_M2
+
+VIARULE M4_M3 GENERATE
+  LAYER metal3 ;
+    ENCLOSURE 0 0.035 ;
+  LAYER metal4 ;
+    ENCLOSURE 0 0 ;
+  LAYER via3 ;
+    RECT -0.035 -0.035 0.035 0.035 ;
+    SPACING 0.155 BY 0.155 ;
+END M4_M3
+
+VIARULE M5_M4 GENERATE
+  LAYER metal4 ;
+    ENCLOSURE 0 0 ;
+  LAYER metal5 ;
+    ENCLOSURE 0 0 ;
+  LAYER via4 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+    SPACING 0.3 BY 0.3 ;
+END M5_M4
+
+VIARULE M6_M5 GENERATE
+  LAYER metal5 ;
+    ENCLOSURE 0 0 ;
+  LAYER metal6 ;
+    ENCLOSURE 0 0 ;
+  LAYER via5 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+    SPACING 0.3 BY 0.3 ;
+END M6_M5
+
+VIARULE M7_M6 GENERATE
+  LAYER metal6 ;
+    ENCLOSURE 0 0 ;
+  LAYER metal7 ;
+    ENCLOSURE 0.13 0.13 ;
+  LAYER via6 ;
+    RECT -0.07 -0.07 0.07 0.07 ;
+    SPACING 0.3 BY 0.3 ;
+END M7_M6
+
+VIARULE M8_M7 GENERATE
+  LAYER metal7 ;
+    ENCLOSURE 0 0 ;
+  LAYER metal8 ;
+    ENCLOSURE 0 0 ;
+  LAYER via7 ;
+    RECT -0.2 -0.2 0.2 0.2 ;
+    SPACING 0.8 BY 0.8 ;
+END M8_M7
+
+VIARULE M9_M8 GENERATE
+  LAYER metal8 ;
+    ENCLOSURE 0 0 ;
+  LAYER metal9 ;
+    ENCLOSURE 0.2 0.2 ;
+  LAYER via8 ;
+    RECT -0.2 -0.2 0.2 0.2 ;
+    SPACING 0.8 BY 0.8 ;
+END M9_M8
+
+VIARULE M10_M9 GENERATE
+  LAYER metal9 ;
+    ENCLOSURE 0 0 ;
+  LAYER metal10 ;
+    ENCLOSURE 0 0 ;
+  LAYER via9 ;
+    RECT -0.4 -0.4 0.4 0.4 ;
+    SPACING 1.6 BY 1.6 ;
+END M10_M9
+
+VIARULE M1_POLY GENERATE
+  LAYER poly ;
+    ENCLOSURE 0 0 ;
+  LAYER metal1 ;
+    ENCLOSURE 0 0.035 ;
+  LAYER contact ;
+    RECT -0.0325 -0.0325 0.0325 0.0325 ;
+    SPACING 0.14 BY 0.14 ;
+END M1_POLY
+
+SPACING
+  SAMENET metal1 metal1 0.065 ;
+  SAMENET metal10 metal10 0.8 ;
+  SAMENET metal2 metal2 0.07 ;
+  SAMENET metal3 metal3 0.07 ;
+  SAMENET metal4 metal4 0.14 ;
+  SAMENET metal5 metal5 0.14 ;
+  SAMENET metal6 metal6 0.14 ;
+  SAMENET metal7 metal7 0.44 ;
+  SAMENET metal8 metal8 0.44 ;
+  SAMENET metal9 metal9 0.8 ;
+END SPACING
+
+MACRO cam_48_6_3_3
+END cam_48_6_3_3
+
+END LIBRARY

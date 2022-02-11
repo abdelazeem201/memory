@@ -1,0 +1,1644 @@
+Connection to IPC server failed.
+Starting IPC Server. (Port = 1925)
+IPC Server started successfully.
+No PseudoColor Visual avaiable, try TrueColor instead
+;; ;# Tcl
+                  Milkyway(TM)
+  Version E-2010.12-CS for AMD.64 -- Feb 15, 2011
+                                                  
+
+Linux 2.6.18-274.17.1.el5 #1 SMP Wed Jan 4 22:45:44 EST 2012 x86_64
+
+Host: ivycreek.ece.Virginia.EDU (AMD.64)
+
+Copyright (C) 1991-2011 Synopsys, Inc. All rights reserved.
+Your use of this program is subject to the terms and conditions of
+a written license agreement between you, or your company, and Synopsys.
+Use the Tcl command "help about" for additional information about
+certain restrictions on your use of this software and its inputs and outputs.
+Install Path: /app/synopsys/starrc/F-2011.12/amd64_starrc
+
+Loading /app/synopsys/starrc/F-2011.12/amd64_starrc/etc/scheme/.avntrc
+#t
+ Info: loading setup file(s)
+ configureWindow 0 25x24+0+0
+Initialization completed
+ cmCreateLib 
+ setFormField create_library library_name fabscalar
+ setFormField create_library technology_file_name FreePDK45.tf
+ formOK create_library
+Error: Technology section is missing entirely. (line 1119) (TFCHK-040)
+ cmCreateLib 
+ formOK create_library
+Invalid library: Library already exists.
+
+Fail to execute command
+ formCancel create_library
+ cmCreateLib 
+ formOK create_library
+Start to load technology file FreePDK45.tf.
+Error: Technology file FreePDK45.tf has a syntax error. (line 30) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 32) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 36) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 37) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 38) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 39) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 40) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 41) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 42) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 43) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 44) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 45) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 46) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 47) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 48) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 49) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 50) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 51) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 52) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 53) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 54) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 55) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 56) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 57) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 58) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 59) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 60) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 61) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 62) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 63) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 64) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 65) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 66) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 67) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 68) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 69) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 70) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 71) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 72) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 73) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 74) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 75) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 76) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 77) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 78) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 79) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 80) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 81) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 82) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 83) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 84) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 85) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 86) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 87) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 88) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 89) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 90) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 91) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 92) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 93) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 94) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 95) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 96) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 97) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 98) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 99) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 100) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 101) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 102) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 103) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 104) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 105) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 106) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 107) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 108) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 109) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 110) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 111) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 112) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 113) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 114) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 115) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 116) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 117) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 118) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 119) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 120) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 121) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 122) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 123) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 124) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 125) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 126) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 127) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 128) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 129) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 130) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 131) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 132) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 133) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 134) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 135) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 136) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 137) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 138) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 139) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 140) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 141) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 142) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 143) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 144) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 145) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 146) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 147) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 148) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 149) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 150) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 151) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 152) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 153) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 154) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 155) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 156) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 157) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 158) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 159) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 160) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 161) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 162) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 163) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 164) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 165) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 166) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 167) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 168) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 169) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 170) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 171) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 172) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 173) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 174) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 175) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 176) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 177) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 178) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 179) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 180) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 181) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 182) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 183) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 184) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 185) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 186) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 187) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 188) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 189) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 190) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 191) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 192) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 193) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 194) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 195) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 196) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 197) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 198) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 199) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 200) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 201) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 202) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 203) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 204) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 205) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 206) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 207) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 208) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 209) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 210) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 211) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 212) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 213) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 214) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 215) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 216) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 217) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 218) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 219) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 220) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 221) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 222) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 223) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 224) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 225) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 226) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 227) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 228) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 229) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 230) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 231) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 232) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 233) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 234) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 235) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 236) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 237) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 238) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 239) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 240) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 241) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 242) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 243) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 244) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 245) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 246) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 247) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 248) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 249) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 250) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 251) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 252) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 253) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 254) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 255) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 256) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 257) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 258) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 259) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 260) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 261) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 262) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 263) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 264) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 265) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 266) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 267) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 268) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 269) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 270) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 271) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 272) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 273) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 274) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 275) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 276) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 277) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 278) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 279) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 280) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 281) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 282) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 283) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 284) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 285) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 286) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 287) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 288) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 289) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 290) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 291) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 292) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 293) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 294) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 295) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 296) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 297) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 298) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 299) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 300) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 301) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 302) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 303) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 304) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 305) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 306) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 307) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 308) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 309) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 310) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 311) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 312) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 313) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 314) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 315) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 316) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 317) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 318) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 319) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 320) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 321) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 322) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 323) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 324) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 325) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 326) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 327) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 328) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 329) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 330) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 331) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 332) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 334) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 337) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 338) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 339) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 340) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 341) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 342) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 343) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 344) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 345) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 346) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 347) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 348) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 349) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 350) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 351) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 352) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 353) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 354) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 355) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 356) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 357) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 358) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 359) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 360) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 361) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 362) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 363) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 364) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 365) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 366) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 367) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 368) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 369) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 370) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 371) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 372) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 373) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 374) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 375) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 376) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 377) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 378) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 379) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 380) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 381) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 382) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 383) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 384) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 385) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 386) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 387) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 388) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 389) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 390) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 391) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 392) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 393) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 394) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 395) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 396) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 397) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 398) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 399) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 400) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 401) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 402) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 403) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 404) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 405) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 406) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 407) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 408) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 409) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 410) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 411) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 412) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 413) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 414) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 415) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 416) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 417) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 418) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 419) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 420) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 421) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 422) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 423) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 424) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 425) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 426) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 427) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 428) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 429) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 430) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 431) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 432) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 433) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 434) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 435) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 436) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 437) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 438) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 439) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 440) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 441) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 442) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 443) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 444) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 445) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 446) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 447) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 448) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 449) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 450) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 451) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 452) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 453) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 454) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 455) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 456) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 457) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 458) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 459) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 460) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 461) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 462) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 463) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 464) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 465) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 466) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 467) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 468) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 469) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 470) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 471) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 472) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 473) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 474) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 475) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 476) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 477) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 478) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 479) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 480) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 481) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 482) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 483) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 484) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 485) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 486) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 487) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 488) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 489) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 490) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 491) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 492) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 493) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 494) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 495) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 496) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 497) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 498) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 499) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 500) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 501) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 502) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 503) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 504) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 505) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 506) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 507) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 508) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 509) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 510) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 511) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 512) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 513) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 514) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 515) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 516) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 517) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 518) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 519) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 520) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 521) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 522) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 523) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 524) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 525) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 526) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 527) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 528) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 529) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 530) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 531) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 532) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 533) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 534) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 535) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 536) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 537) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 538) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 539) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 540) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 541) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 542) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 543) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 544) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 545) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 546) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 547) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 548) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 549) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 550) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 551) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 552) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 553) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 554) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 555) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 556) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 557) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 558) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 559) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 560) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 561) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 562) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 563) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 564) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 565) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 566) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 567) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 568) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 569) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 570) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 571) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 572) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 573) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 574) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 575) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 576) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 577) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 578) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 579) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 580) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 581) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 582) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 583) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 584) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 585) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 586) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 587) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 588) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 589) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 590) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 591) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 592) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 593) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 594) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 595) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 596) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 597) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 598) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 599) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 600) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 601) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 603) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 606) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 607) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 608) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 609) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 610) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 611) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 612) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 613) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 614) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 615) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 616) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 617) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 618) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 619) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 620) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 621) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 622) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 623) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 624) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 625) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 626) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 627) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 628) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 629) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 630) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 631) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 632) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 633) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 634) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 635) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 636) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 637) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 638) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 639) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 640) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 641) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 642) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 643) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 644) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 645) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 646) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 647) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 648) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 649) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 650) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 651) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 652) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 653) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 654) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 655) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 656) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 657) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 658) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 659) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 660) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 661) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 662) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 663) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 664) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 665) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 666) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 667) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 668) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 669) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 670) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 671) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 672) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 673) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 674) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 675) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 676) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 677) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 678) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 679) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 680) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 681) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 682) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 683) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 684) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 685) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 686) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 687) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 688) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 689) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 690) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 691) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 692) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 693) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 694) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 695) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 696) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 697) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 698) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 699) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 700) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 701) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 702) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 703) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 704) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 705) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 706) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 707) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 708) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 709) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 710) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 711) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 712) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 713) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 714) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 715) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 716) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 717) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 718) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 719) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 720) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 721) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 722) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 723) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 724) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 725) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 726) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 727) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 728) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 729) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 730) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 731) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 732) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 733) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 734) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 735) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 736) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 737) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 738) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 739) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 740) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 741) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 742) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 743) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 744) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 745) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 746) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 747) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 748) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 750) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 753) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 754) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 755) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 757) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 763) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 765) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 768) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 770) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 773) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 774) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 775) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 776) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 777) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 778) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 779) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 780) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 781) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 782) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 783) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 784) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 785) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 786) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 787) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 788) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 789) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 790) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 791) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 792) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 793) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 794) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 795) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 797) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 800) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 801) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 802) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 803) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 804) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 805) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 806) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 807) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 808) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 809) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 810) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 812) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 815) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 817) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 822) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 824) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 830) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 832) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 838) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 839) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 840) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 841) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 842) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 843) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 844) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 845) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 846) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 847) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 848) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 849) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 850) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 851) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 852) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 853) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 854) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 855) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 856) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 857) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 858) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 859) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 860) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 861) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 862) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 863) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 864) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 865) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 866) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 867) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 868) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 869) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 870) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 871) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 872) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 873) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 874) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 875) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 876) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 877) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 878) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 879) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 880) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 881) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 882) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 883) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 884) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 885) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 886) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 887) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 888) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 889) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 890) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 891) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 892) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 893) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 894) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 895) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 896) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 897) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 898) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 900) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 903) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 904) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 905) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 906) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 907) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 908) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 909) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 910) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 911) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 912) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 913) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 914) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 915) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 916) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 917) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 919) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 926) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 930) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 932) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 933) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 934) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 935) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 936) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 937) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 941) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 943) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 944) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 945) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 947) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 948) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 949) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 950) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 951) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 952) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 953) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 954) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 955) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 956) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 957) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 958) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 959) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 960) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 961) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 962) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 963) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 964) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 965) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 966) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 967) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 968) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 970) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 971) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 972) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 973) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 977) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 979) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 980) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 981) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 982) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 983) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 984) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 985) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 986) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 987) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 988) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 989) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 990) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 991) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 992) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 993) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 994) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 995) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 996) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 997) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 998) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 999) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1000) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1001) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1002) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1003) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1004) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1005) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1006) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1007) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1008) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1009) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1011) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1012) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1013) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1014) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1015) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1016) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1017) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1018) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1019) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1020) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1021) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1022) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1023) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1024) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1025) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1026) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1027) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1028) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1029) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1030) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1031) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1032) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1033) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1034) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1035) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1036) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1037) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1038) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1039) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1040) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1041) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1042) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1043) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1044) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1045) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1046) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1047) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1048) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1049) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1050) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1051) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1052) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1053) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1054) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1055) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1056) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1057) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1058) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1059) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1060) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1062) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1063) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1064) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1065) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1066) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1067) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1068) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1069) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1070) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1071) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1072) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1073) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1074) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1075) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1076) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1077) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1078) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1079) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1080) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1081) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1083) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1084) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1085) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1091) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1092) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1130) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1136) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1138) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1141) (TFCHK-003)
+Error: Technology file FreePDK45.tf has a syntax error. (line 1143) (TFCHK-003)
+Warning: CapModel sections are missing. Capacitance models should be loaded with a TLU+ file later. (TFCHK-084)
+Failed to load technology file FreePDK45.tf.
+ cmCreateLib 
+ setFormField create_library technology_file_name saed90nm_icc_1p9m.tfFreePDK45.tf
+ setFormField create_library technology_file_name saed90nm_icc_1p9m.tf
+ formOK create_library
+Start to load technology file saed90nm_icc_1p9m.tf.
+Warning: Layer 'PRBOUNDARY' index attribute is reassigned from 207 to 50. (line 1307) (TFCHK-019)
+Warning: Layer 'PRBOUNDARY' section occurred multiple times. (line 1319) (TFCHK-090)
+Information: Non-metal layer 'DIFF_33' has the metal layer attribute 'endOfLineCornerKeepoutWidth'. (line 1613) (TFCHK-046)
+Warning: DesignRule attribute 'layer2' is assigned a non-physical layer 'DNW'. (line 1987) (TFCHK-079)
+Warning: DesignRule attribute 'layer2' is assigned a non-physical layer 'RPOLY'. (line 2190) (TFCHK-079)
+Warning: Layer 'M1' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.33. (TFCHK-049)
+Warning: Layer 'M2' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M3' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M4' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M5' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M6' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M7' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M8' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.465 or 0.5. (TFCHK-049)
+Warning: Layer 'M3' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M4' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M5' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M6' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M7' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M8' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M9' has a pitch 0.9 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Technology file saed90nm_icc_1p9m.tf has been loaded successfully.
+ axtfInitializeMainTable
+
+Cannot perform requested operation.
+
+axBuildALayer failed for PRBoundary!
+
+Cannot perform requested operation.
+
+ cmCreateLib 
+ formOK create_library
+Start to load technology file saed90nm_icc_1p9m.tf.
+Warning: Layer 'PRBOUNDARY' index attribute is reassigned from 207 to 50. (line 1307) (TFCHK-019)
+Warning: Layer 'PRBOUNDARY' section occurred multiple times. (line 1319) (TFCHK-090)
+Information: Non-metal layer 'DIFF_33' has the metal layer attribute 'endOfLineCornerKeepoutWidth'. (line 1613) (TFCHK-046)
+Warning: DesignRule attribute 'layer2' is assigned a non-physical layer 'DNW'. (line 1987) (TFCHK-079)
+Warning: DesignRule attribute 'layer2' is assigned a non-physical layer 'RPOLY'. (line 2190) (TFCHK-079)
+Warning: Layer 'M1' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.33. (TFCHK-049)
+Warning: Layer 'M2' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M3' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M4' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M5' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M6' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M7' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M8' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.465 or 0.5. (TFCHK-049)
+Warning: Layer 'M3' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M4' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M5' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M6' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M7' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M8' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M9' has a pitch 0.9 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Technology file saed90nm_icc_1p9m.tf has been loaded successfully.
+ axtfInitializeMainTable
+
+Cannot perform requested operation.
+
+axBuildALayer failed for PRBoundary!
+
+Cannot perform requested operation.
+
+
+
+ERROR: ALL error recovered.
+
+
+ERROR: ALL error recovered.
+ cmCreateLib 
+ formOK create_library
+Start to load technology file saed90nm_icc_1p9m.tf.
+Warning: Layer 'PRBOUNDARY' index attribute is reassigned from 207 to 50. (line 1307) (TFCHK-019)
+Warning: Layer 'PRBOUNDARY' section occurred multiple times. (line 1319) (TFCHK-090)
+Information: Non-metal layer 'DIFF_33' has the metal layer attribute 'endOfLineCornerKeepoutWidth'. (line 1613) (TFCHK-046)
+Warning: DesignRule attribute 'layer2' is assigned a non-physical layer 'DNW'. (line 1987) (TFCHK-079)
+Warning: DesignRule attribute 'layer2' is assigned a non-physical layer 'RPOLY'. (line 2190) (TFCHK-079)
+Warning: Layer 'M1' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.33. (TFCHK-049)
+Warning: Layer 'M2' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M3' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M4' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M5' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M6' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M7' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.36. (TFCHK-049)
+Warning: Layer 'M8' has a pitch 0.32 that does not match the recommended wire-to-via pitch 0.465 or 0.5. (TFCHK-049)
+Warning: Layer 'M3' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M4' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M5' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M6' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M7' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M8' has a pitch 0.32 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Warning: Layer 'M9' has a pitch 0.9 that does not match the doubled pitch 0.64 or tripled pitch 0.96. (TFCHK-050)
+Technology file saed90nm_icc_1p9m.tf has been loaded successfully.
+ axtfInitializeMainTable
+
+Cannot perform requested operation.
+
+axBuildALayer failed for PRBoundary!
+
+Cannot perform requested operation.
+
+ auStreamIn 
+ setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/gds/AND2X1.gds
+ formButton stream_in_data_file browse...
+ setFormField stream_in_data_file library_name FABSCALAR
+ formOK stream_in_data_file
+All cells will be set to be standard cells
+Stream In completed successfully!
+ read_lef 
+Error: No library is opened with write permission for read_lef! (MWSTRM-044)
+0
+ read_lef 
+Error: No library is opened with write permission for read_lef! (MWSTRM-044)
+0
+
+
+ERROR: ALL error recovered.
+ read_lef -lib fabscalar -tech_lef_files CAM_4R4W_src0cam.lef -cell_lef_files CAM_4R4W_src0cam.lef  
+
+	>>>>>>> MILKYWAY LEF IN <<<<<<<
+
+>>> Read Tech LEF File "/net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/CAM_4R4W_src0cam.lef" ... 
+
+Starting to read LEF file ...
+Error: DATABASE unit (2000) specified in LEF/PLIB file is greater than length precision in library (1000). (MWLIBP-102)
+
+Calling LEF IN API exit handler ...
+
+>>> Read Cell LEF File "/net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/CAM_4R4W_src0cam.lef" ... 
+
+
+
+Starting to read LEF file ...
+Error: DATABASE unit (2000) specified in LEF/PLIB file is greater than length precision in library (1000). (MWLIBP-102)
+
+Calling LEF IN API exit handler ...
+Read LEF completed.
+
+1
+ read_lef -lib fabscalar -tech_lef_files CAM_4R4W_src0cam.lef -cell_lef_files CAM_4R4W_src0cam.lef -overwrite_existing_tech 
+
+	>>>>>>> MILKYWAY LEF IN <<<<<<<
+
+>>> Read Tech LEF File "/net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/CAM_4R4W_src0cam.lef" ... 
+Start to load technology file .CAM_4R4W_src0cam.lef.tf.
+Warning: CapModel sections are missing. Capacitance models should be loaded with a TLU+ file later. (TFCHK-084)
+Technology file .CAM_4R4W_src0cam.lef.tf has been loaded successfully.
+
+Starting to read LEF file ...
+ERROR: Parser Error At Line 1695, Last token was <CAM_4R4W_SRC0CAM>,
+       Caused By:<syntax error>
+
+Calling LEF IN API exit handler ...
+The library already has via info attach file!
+If you want to regenerate the via info attach file,
+Use [dbDeleteLibAttachedFile libId "VIA_INFO_ATTACH_FILE"]
+to remove via info attach file first.
+
+>>> Read Cell LEF File "/net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/CAM_4R4W_src0cam.lef" ... 
+
+
+
+Starting to read LEF file ...
+WARNING : GateSite SITE_CAM_4R4W_SRC0CAM already exists in library, and will be overwritten!
+Error: Failed to get layer METAL2 in library. (MWLIBP-055)
+Re-mark cell CAM_4R4W_SRC0CAM's type as MacroCell.
+ERROR: Parser Error At Line 1695, Last token was <CAM_4R4W_SRC0CAM>,
+       Caused By:<syntax error>
+
+Calling LEF IN API exit handler ...
+Read LEF completed.
+
+
+Extracting blockage/pin ... 
+
+------ new BPV starts ... -----
+Total Hash [0] Single Master Vias
+Total Hash [0] Array-Master Vias
+merge tolerance:
+mask 0: route layer 0,   cut layer -1
+mask 1: route layer 0,   cut layer 0
+mask 2: route layer 0,   cut layer 0
+mask 3: route layer 0,   cut layer 0
+mask 4: route layer 0,   cut layer 0
+mask 5: route layer 0,   cut layer 0
+mask 6: route layer 0,   cut layer 0
+mask 7: route layer 0,   cut layer 0
+mask 8: route layer 0,   cut layer 0
+mask 9: route layer 0,   cut layer 0
+mask 10: route layer 0,   cut layer 0
+mask 11: route layer 0,   cut layer 0
+mask 12: route layer 0,   cut layer 0
+mask 13: route layer 0,   cut layer 0
+mask 14: route layer 0,   cut layer 0
+mask 15: route layer 0,   cut layer 0
+       Processing cell [AND2X1.CEL] ...
+------ new BPV starts ... -----
+Total Hash [0] Single Master Vias
+Total Hash [0] Array-Master Vias
+merge tolerance:
+mask 0: route layer 0,   cut layer -1
+mask 1: route layer 0,   cut layer 0
+mask 2: route layer 0,   cut layer 0
+mask 3: route layer 0,   cut layer 0
+mask 4: route layer 0,   cut layer 0
+mask 5: route layer 0,   cut layer 0
+mask 6: route layer 0,   cut layer 0
+mask 7: route layer 0,   cut layer 0
+mask 8: route layer 0,   cut layer 0
+mask 9: route layer 0,   cut layer 0
+mask 10: route layer 0,   cut layer 0
+mask 11: route layer 0,   cut layer 0
+mask 12: route layer 0,   cut layer 0
+mask 13: route layer 0,   cut layer 0
+mask 14: route layer 0,   cut layer 0
+mask 15: route layer 0,   cut layer 0
+       Processing cell [AND2X1.CEL] ...
+this cell has 0 rectangle records
+this cell has 8 text records
+this cell has 99 polygon records
+The total number of paths in this cell is 0. 
+
+--- All pins have been split into connected components --
+(bpvExtractViaRegion) Cell (AND2X1) is processing!...
+ERROR : cannot get metal2 pitch from DB (data error)
+WARNING : The value of M2 pitch is wrong:     so that BPV is unable to compute M2 tracks.
+Elapsed =    0:00:00, CPU =    0:00:00
+Marking EEQ ports in each cell.
+------ new BPV starts ... -----
+Total Hash [0] Single Master Vias
+Total Hash [0] Array-Master Vias
+       Processing cell [CAM_4R4W_SRC0CAM_20012.CEL] ...
+** (Delete Cell) ** (cell name = CAM_4R4W_SRC0CAM_20012, view name = FRAM) does not exist.
+this cell has 0 rectangle records
+this cell has 0 text records
+this cell has 0 polygon records
+The total number of paths in this cell is 0. 
+(Macro Instance Object Layer) .....................
+
+ .......... total 0 layers with Macro instances.
+
+--- All pins have been split into connected components --
+[End of bpvFindAccessEdgesOnRouteLayer]
+Made macro CAM_4R4W_SRC0CAM.
+
+Load Library settings...
+WARNING : This is not a standard cell library.
+Skip setting PR boundary & defining wire track.
+1
+ iconifyWindow 0
+ deiconifyWindow 0
+ read_lef -lib fabscalar -tech_lef_files SRAM432.lef -cell_lef_files SRAM432.lef  
+
+	>>>>>>> MILKYWAY LEF IN <<<<<<<
+
+>>> Read Tech LEF File "/net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/SRAM432.lef" ... 
+
+Starting to read LEF file ...
+WARNING : LEF NAMESCASESENSITIVE ON is inconsistent with library case sensitive OFF.
+Calling LEF IN API exit handler ...
+The library already has via info attach file!
+If you want to regenerate the via info attach file,
+Use [dbDeleteLibAttachedFile libId "VIA_INFO_ATTACH_FILE"]
+to remove via info attach file first.
+
+>>> Read Cell LEF File "/net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/SRAM432.lef" ... 
+
+
+
+Starting to read LEF file ...
+WARNING : LEF NAMESCASESENSITIVE ON is inconsistent with library case sensitive OFF.
+Calling LEF IN API exit handler ...
+Read LEF completed.
+
+1
+ read_lef -lib fabscalar -tech_lef_files CAM_4R4W_src0cam.lef -cell_lef_files CAM_4R4W_src0cam.lef -overwrite_existing_tech 
+
+	>>>>>>> MILKYWAY LEF IN <<<<<<<
+
+>>> Read Tech LEF File "/net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/CAM_4R4W_src0cam.lef" ... 
+Start to load technology file .CAM_4R4W_src0cam.lef.tf.
+Warning: CapModel sections are missing. Capacitance models should be loaded with a TLU+ file later. (TFCHK-084)
+Technology file .CAM_4R4W_src0cam.lef.tf has been loaded successfully.
+
+Starting to read LEF file ...
+WARNING : GateSite SITE_CAM_4R4W_SRC0CAM already exists in library, and will be overwritten!
+
+Calling LEF IN API exit handler ...
+ Done
+
+
+The library already has via info attach file!
+If you want to regenerate the via info attach file,
+Use [dbDeleteLibAttachedFile libId "VIA_INFO_ATTACH_FILE"]
+to remove via info attach file first.
+
+>>> Read Cell LEF File "/net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/CAM_4R4W_src0cam.lef" ... 
+
+
+
+Starting to read LEF file ...
+WARNING : GateSite SITE_CAM_4R4W_SRC0CAM already exists in library, and will be overwritten!
+WARNING : Macro Cell CAM_4R4W_SRC0CAM exists already, Revise the existing cell.
+Error: Failed to get layer METAL2 in library. (MWLIBP-055)
+**** Can not find port (MATCH3_O[31]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[30]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[29]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[28]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[27]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[26]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[25]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[24]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[23]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[22]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[21]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[20]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[19]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[18]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[17]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[16]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[15]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[14]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[13]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[12]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[11]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[10]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[9]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[8]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[7]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH3_O[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[31]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[30]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[29]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[28]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[27]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[26]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[25]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[24]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[23]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[22]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[21]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[20]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[19]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[18]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[17]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[16]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[15]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[14]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[13]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[12]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[11]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[10]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[9]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[8]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[7]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH2_O[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[31]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[30]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[29]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[28]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[27]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[26]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[25]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[24]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[23]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[22]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[21]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[20]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[19]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[18]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[17]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[16]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[15]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[14]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[13]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[12]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[11]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[10]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[9]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[8]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[7]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH1_O[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[31]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[30]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[29]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[28]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[27]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[26]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[25]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[24]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[23]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[22]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[21]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[20]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[19]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[18]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[17]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[16]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[15]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[14]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[13]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[12]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[11]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[10]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[9]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[8]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[7]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (MATCH0_O[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3_I[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3_I[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2_I[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2_I[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (WE3_I) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR3WR_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR3WR_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR3WR_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR3WR_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR3WR_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (WE2_I) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR2WR_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR2WR_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR2WR_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR2WR_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR2WR_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3WR_I[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3WR_I[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3WR_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3WR_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3WR_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3WR_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG3WR_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2WR_I[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2WR_I[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2WR_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2WR_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2WR_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2WR_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG2WR_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1WR_I[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1WR_I[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1WR_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1WR_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1WR_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1WR_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1WR_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0WR_I[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0WR_I[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0WR_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0WR_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0WR_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0WR_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0WR_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1_I[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1_I[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG1_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0_I[6]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0_I[5]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (TAG0_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (WE1_I) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR1WR_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR1WR_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR1WR_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR1WR_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR1WR_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (WE0_I) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR0WR_I[4]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR0WR_I[3]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR0WR_I[2]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR0WR_I[1]) in CAM_4R4W_SRC0CAM.FRAM ***
+**** Can not find port (ADDR0WR_I[0]) in CAM_4R4W_SRC0CAM.FRAM ***
+
+Calling LEF IN API exit handler ...
+ Done
+
+
+Read LEF completed.
+
+1
+ read_lef -lib fabscalar -tech_lef_files SRAM432.lef -cell_lef_files SRAM432.lef  
+
+	>>>>>>> MILKYWAY LEF IN <<<<<<<
+
+>>> Read Tech LEF File "/net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/SRAM432.lef" ... 
+
+Starting to read LEF file ...
+WARNING : LEF NAMESCASESENSITIVE ON is inconsistent with library case sensitive OFF.
+Calling LEF IN API exit handler ...
+The library already has via info attach file!
+If you want to regenerate the via info attach file,
+Use [dbDeleteLibAttachedFile libId "VIA_INFO_ATTACH_FILE"]
+to remove via info attach file first.
+
+>>> Read Cell LEF File "/net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/SRAM432.lef" ... 
+
+
+
+Starting to read LEF file ...
+WARNING : LEF NAMESCASESENSITIVE ON is inconsistent with library case sensitive OFF.
+Calling LEF IN API exit handler ...
+Read LEF completed.
+
+1
+ geOpenCell 
+Library not open.
+ geOpenCell 
+Library not open.
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ auStreamIn 
+ setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/layout.gds
+ formOK stream_in_data_file
+All cells will be set to be standard cells
+No cells to process
+Stream In completed successfully!
+
+
+ERROR: ALL error recovered.
+ auStreamIn 
+ setFormField stream_in_data_file stream_file_name /net/plato.ee.virginia.edu/users/wz6pc/synopsys/syn_tut/milkyway/layout.gds
+ formOK stream_in_data_file
+All cells will be set to be standard cells
+No cells to process
+Stream In completed successfully!
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+
+
+ERROR: ALL error recovered.
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0
+ iconifyWindow 0
+ deiconifyWindow 0

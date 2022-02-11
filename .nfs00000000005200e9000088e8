@@ -1,0 +1,20 @@
+Technology {
+		 name 		 = ""
+		 unitTimeName 		 = "ns"
+		 timePrecision 		 = 1000
+		 unitLengthName 		 = "micron"
+		 lengthPrecision 		 = 2000
+		 gridResolution 		 = 10
+		 unitVoltageName 		 = "V"
+		 voltagePrecision 		 = 1000000
+		 unitCurrentName 		 ="mA"
+		 currentPrecision 		 = 1000000
+		 unitPowerName 		 = "mw"
+		 powerPrecision 		 = 1000000
+		 unitResistanceName 		 = "kohm"
+		 resistancePrecision 		 = 1000000
+		 unitCapacitanceName 		 = "pf"
+		 capacitancePrecision 		 = 1000000
+		 unitInductanceName 		 = "nh"
+		 inductancePrecision 		 = 100
+}

@@ -1,0 +1,51 @@
+
+                        Avant! GDS II File Translation Report
+                        =====================================
+
+                          Cell Type Map File: /home/IC/Desktop/Abdelazeem/synopsys/syn_tut/milkyway/gds/cell_type.txt
+                          Layer Map File    : (unspecified)
+
+                                                               Structure   Array
+    Cell Name        Cell Type         Polygon   Path   Text   Reference   Reference
+    --------------   ---------------   -------   ----   ----   ---------   ---------
+    SRAM4x16         Standard cell       57853   7107    126           0           0
+    --------------   ---------------   -------   ----   ----   ---------   ---------
+                             1 cells     57853   7107    126           0           0
+
+
+
+     Elements in Layer Summary
+
+  GDSII Layer   Polygon   Path   Text
+  -----------   -------   ----   ----
+            1       223      0      0
+            3      8475    192      0
+            4       440      0      0
+            5       505      0      0
+           10      8030   2094      0
+           11      8000   3719      0
+           12      5615   1071      0
+           13      5630     31      0
+           14      1146      0      1
+           15       134      0      2
+           20      7103      0      0
+           21      2001      0      0
+           22       830      0      0
+           23       743      0      0
+           24      8889      0      0
+           32         0      0     32
+           33         0      0     32
+           34         0      0     29
+           35         0      0     30
+           50        89      0      0
+  -----------   -------   ----   ----
+                  57853   7107    126
+
+
+
+    Cell Boundary Generation Summary
+
+    Cell Name           Boundary
+    -----------------   ------------
+    SRAM4x16            Not present
+    -----------------   ------------
