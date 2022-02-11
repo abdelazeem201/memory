@@ -2,7 +2,7 @@
 
 Generates the Write Logic
 and nessecary subcomponents
-Written by Tyler Healy Jan. 2009.
+Written by  Ahmed Abdelazeem. 2021.
 
 =====================================================================*/
 
