@@ -1,7 +1,7 @@
 /*====================================================================
 
 Generates a Basic Diff Sense Amp
-Written by Tyler Healy Jan. 2009.
+Written by  Ahmed Abdelazeem. 2021.
 
 =====================================================================*/
 
