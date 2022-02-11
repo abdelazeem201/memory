@@ -2,8 +2,7 @@
 
 Generates the readCkt
 and nessecary subcomponents
-Written by Tyler Healy Jan. 2009.
-
+Written by  Ahmed Abdelazeem. 2021.
 =====================================================================*/
 
 ;;Load the file containing the basic schematic procedures
