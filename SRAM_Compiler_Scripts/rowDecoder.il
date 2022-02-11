@@ -4,7 +4,7 @@ This file defines the SKILL code for an NxM SRAM Array
 Relies on Library Definition and SRAM bitcell with:
 BL, BLB, WL, VDD and VSS pins.
 
-Written by Tyler Healy Nov. 2008.
+Written by  Ahmed Abdelazeem. 2021.
 
 =====================================================================*/
 
