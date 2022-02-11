@@ -4,15 +4,15 @@ Configuration File for SRAM Generator
 Set Sizes and Paths
 RUN THIS TO GENERATE SRAM
 
-Written by Tyler Healy February 2009
-
+Written by  Ahmed Abdelazeem. 2021.
 =====================================================================*/
 
 
 
 
 
-procedure(SRAMConfigLauncher()
+procedure(SRAMConfigLauncher()
+
   prog(()
 load("./skill/SRAMGenerator.il")
 /***********************************************************/
