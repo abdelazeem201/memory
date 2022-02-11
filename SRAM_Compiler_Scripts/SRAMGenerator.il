@@ -1,7 +1,7 @@
 /*====================================================================
 
 Generates a single block SRAM RxC 
-Written by Tyler Healy Jan. 2009.
+Written by  Ahmed Abdelazeem. 2021.
 
 =====================================================================*/
 
@@ -446,7 +446,8 @@ nil
 x:y 
 "R0")/* End Cell Place*/
 
-
+
+
 
 
 x=5
